@@ -1,3 +1,9 @@
+gnome-settings-daemon (41.0-2deepin1) unstable; urgency=medium
+
+  * Fix build depends
+
+ -- Woomeeme <2968606874@qq.com>  Tue, 31 Dec 2024 17:26:52 +0800
+
 gnome-settings-daemon (41.0-2) unstable; urgency=medium
 
   * Release to unstable
